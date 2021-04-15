@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ardenth
+- 👀 I’m interested in game and level design
+- 🌱 I’m currently learning artificial intelligence to support these interests
+- 📫 How to reach me: riku.lehkonen@gmail.com
